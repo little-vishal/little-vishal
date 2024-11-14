@@ -1,0 +1,15 @@
+[
+  {
+    "path": "/home/little-vishal/.config/mise/config.toml",
+    "tools": [
+      "node",
+      "kubectl",
+      "fzf",
+      "fx",
+      "fd",
+      "yq",
+      "just",
+      "rust"
+    ]
+  }
+]
